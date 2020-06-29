@@ -6,7 +6,7 @@
 
 
 <center><img src="./img/signal.png" alt="" width="100px"/></center>
-##### SYGnal page https://sygnaling.shop/sygnaling/index.php
+#### SYGnal page https://sygnaling.shop/sygnaling/index.php
 
 __Save Your Golden hour (SYGnal)__
 
@@ -18,6 +18,7 @@ It is an emergency rescue integrated platform that shares patient/hospital infor
 
 ## 👨‍💻프로젝트 주요 내용
  ● 응급 구조 통합 플랫폼 메인 화면
+ 
   <center><img src="./img/main.png" alt="" height="250px"width="550px"/></center>
 
  ● (병원용) 병원 병상수 및 진료가능과목 업데이트
@@ -31,7 +32,9 @@ It is an emergency rescue integrated platform that shares patient/hospital infor
  ● (구급대용) 응급환자에게 적합한 병원 탐색 및 내비게이션
  
  <center><img src="./img/navi_1.jpg" alt="" height="250px" width="550px"/></center>
+
   <center><img src="./img/navi_2.jpg" alt="" height="250px" width="550px"/></center>
+
  ● (구급대용)이송중인 환자의 상태 공유를 위한 선택 페이지
  
  <center><img src="./img/paientmain.jpg" alt="" height="250px" width="550px"/></center>
