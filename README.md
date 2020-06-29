@@ -17,28 +17,28 @@ It is an emergency rescue integrated platform that shares patient/hospital infor
 
 서울특별시 구로구로 지역을 설정하여 해당 지역의 권역외상센터인 고려대학교 구로병원과 이대목동병원을 기준으로 설정하였습니다.
 
-## 👨‍💻프로젝트 주요 내용
+## 👨 💻프로젝트 주요 내용
  ● 응급 구조 통합 플랫폼 메인 화면
 
   <center><img src="./img/main.png" alt="" height="250px"width="550px"/></center>
 
  ● (병원용) 병원 병상수 및 진료가능과목 업데이트
  
- <center><img src="./img/checkhos.jpg" alt="" height="250px" width="550px"/></center>
+ <center><img src="./img/checkhos.png" alt="" height="250px" width="550px"/></center>
 
  ● (병원용) 환자 상해 정보 확인
  
- <center><img src="./img/gurohos_pai.jpg" alt="" height="250px" width="550px"/></center>
+ <center><img src="./img/gurohos_pai.png" alt="" height="250px" width="550px"/></center>
 
  ● (구급대용) 응급환자에게 적합한 병원 탐색 및 내비게이션
  
- <center><img src="./img/navi_1.jpg" alt="" height="250px" width="550px"/></center>
+ <center><img src="./img/navi_1.png" alt="" height="250px" width="550px"/></center>
 
-  <center><img src="./img/navi_2.jpg" alt="" height="250px" width="550px"/></center>
+  <center><img src="./img/navi_2.png" alt="" height="250px" width="550px"/></center>
 
  ● (구급대용)이송중인 환자의 상태 공유를 위한 선택 페이지
  
- <center><img src="./img/paientmain.jpg" alt="" height="250px" width="550px"/></center>
+ <center><img src="./img/paientmain.png" alt="" height="250px" width="550px"/></center>
  
  ● (구급대용)이송중인 환자의 기본정보 입력하기(Modal)
 
@@ -49,13 +49,13 @@ It is an emergency rescue integrated platform that shares patient/hospital infor
  <center><img src="./img/sttpick.png" alt="" height="250px" width="550px"/></center>
 
  ● 서울시 공공데이터 기반 응급사고 발생 예측
-  <center><img src="./img/datachart.jpg" alt="" height="250px" width="550px"/></center>
+  <center><img src="./img/datachart.png" alt="" height="250px" width="550px"/></center>
 
 
 ## 📑작품 구성도
-![img](./img/structure.jpg)
+
+![img](./img/structure.png)
 
 ## 📑참고 사이트
 
 ##### annyang https://www.talater.com/annyang/
-
