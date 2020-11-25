@@ -56,6 +56,9 @@ It is an emergency rescue integrated platform that shares patient/hospital infor
 
 ![img](./img/structure.png)
 
+## 팀구성
+### 유안지, 이수진, 김현주, 박정미
+
 ## 📑참고 사이트
 
 ##### annyang https://www.talater.com/annyang/ 
