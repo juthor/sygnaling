@@ -1,4 +1,7 @@
-# Save Your Golden hour (SYGnal hanium_2019)
+# Save Your Golden hour (SYGnal hanium_2019)  
+
+# 골든타임 확보를 위한 응급구조 통합 웹플랫폼  
+
 ![PHP](https://img.shields.io/badge/php-Web--Server-blue?logo=PHP)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-CSS-blueviolet?logo=bootstrap)
 ![Javascript](https://img.shields.io/badge/SpeechRecognition-annyang-yellow?logo=Javascript)
